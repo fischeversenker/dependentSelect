@@ -1,0 +1,8 @@
+{
+  "name": "angular-select",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "1.5.x",
+    "bootstrap": "3.3.x"
+  }
+}

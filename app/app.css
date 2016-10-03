@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.outer-wrapper {
+  background-color: #ddd;
+}
+
+.select-wrapper {
+  vertical-align: middle;
+  display: inline-block;
+  margin: 13px;
+}
+
+.select-inner-wrapper {
+  margin: 7px;
+}

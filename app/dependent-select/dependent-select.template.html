@@ -1,0 +1,6 @@
+<div class="select-inner-wrapper">
+    <select ng-model="myOpt">
+      <option value="">{{defaultOpt.text}}</option>
+      <option ng-repeat="opt in opts | optionfilter:availableOptions" value="{{opt.id}}">{{opt.text}}</option>
+    </select>
+</div>

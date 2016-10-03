@@ -1,0 +1,33 @@
+{
+    "cleaning": [{
+        "text": "clean kitchen"
+    }, {
+        "text": "clean bathroom"
+    }, {
+        "text": "clean stairs"
+    }, {
+        "text": "clean floor"
+    }, {
+        "text": "clean windows"
+    }],
+    "music": [{
+        "text": "liquid d&b"
+    }, {
+        "text": "swing"
+    }, {
+        "text": "down tempo"
+    }],
+    "coding": [{
+        "text": "front end"
+    }, {
+        "text": "back end"
+    }, {
+        "text": "logic"
+    }, {
+        "text": "templates"
+    }, {
+        "text": "controller"
+    }, {
+        "text": "oop"
+    }]
+}
